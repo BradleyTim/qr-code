@@ -33,9 +33,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Frontend Mentor - [@BradleyTim](https://www.frontendmentor.io/profile/BradleyTim)
 - Twitter - [@OBTGO](https://www.twitter.com/obtgo)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
 ## Acknowledgments
 
-ThANKS TO FRONTEND MENTOR FOR THIS PROJECT. 
+THANKS TO FRONTEND MENTOR FOR THIS PROJECT. 
 
